@@ -1,0 +1,1 @@
+arma3.exe "-mod=@DayzA3" -nosplash
